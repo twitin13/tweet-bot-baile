@@ -13,13 +13,13 @@ const client = new TwitterApi({
   try {
     // 📝 Isi tweet kamu di sini (nanti aku bantu isi sesuai request kamu)
     const textTweet = `
-‼️ Diskon Moon Chicken Korean Chicken Wings Rice Set 4K ajaa 🍗 + Gratong s/d 10rb
+Voucher shopeefood diskon 100% max 20rb + gratis ongkir 3rb ✨ ‼️ 
 
-Klaim disini sebelum habis👇
-https://spf.shopee.co.id/5pyn9silxH
-https://spf.shopee.co.id/5pyn9silxH
+Klaim di resto sebelum habis 👇👇👇
+spf.shopee.co.id/1VriGwX0zh
+spf.shopee.co.id/1VriGwX0zh
 
-t. gofood grabfood shopeefood kode promo go grab shopee food sfood voucher gratis ongkir daget gojek
+t. gofood grabfood kode promo go grab shopee food sfood voucher gojek Gary Iskak Raisa
 `;
 
     // 📸 Upload 1 gambar dari repo
@@ -36,4 +36,5 @@ t. gofood grabfood shopeefood kode promo go grab shopee food sfood voucher grati
     console.error('❌ Gagal kirim tweet:', error);
   }
 })();
+
 
