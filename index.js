@@ -16,10 +16,10 @@ const client = new TwitterApi({
 Voucher shopeefood diskon 100% max 20rb + gratis ongkir 3rb ✨ ‼️ 
 
 Klaim di resto sebelum habis 👇👇👇
-spf.shopee.co.id/1VriGwX0zh
-spf.shopee.co.id/1VriGwX0zh
+https://spf.shopee.co.id/3VcySyqJCi
+https://spf.shopee.co.id/3VcySyqJCi
 
-t. gofood grabfood kode promo go grab shopee food sfood voucher gojek Gary Iskak Raisa
+t. gofood grabfood kode promo go grab shopee food sfood voucher gojek Raisa amanda zahra 
 `;
 
     // 📸 Upload 1 gambar dari repo
@@ -36,5 +36,6 @@ t. gofood grabfood kode promo go grab shopee food sfood voucher gojek Gary Iskak
     console.error('❌ Gagal kirim tweet:', error);
   }
 })();
+
 
 
